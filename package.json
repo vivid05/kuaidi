@@ -34,7 +34,7 @@
     "webpack-dev-server": "^2.9.3"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
     "mint-ui": "^2.2.9",
     "moment": "^2.19.1",
